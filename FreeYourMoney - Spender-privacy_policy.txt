@@ -1,0 +1,8 @@
+privacy policy
+
+user data will not be shared with 3rd parties
+user data is just for use by the user or the creator to provide insight into spending habbits
+request to delet user data can be done by entering in 100101108 to reperestent ascii sring of 
+numbers for "del". within 48 hours the users personal data will be deleted perminantly
+Information is not encrypted when sent
+user can choose to send or not send this data. this is the only way it is collected
